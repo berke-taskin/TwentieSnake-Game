@@ -1,3 +1,4 @@
+# TwentieSnake Game
 ![Game Logo](TwentieSnake.jpg)
 
 Hardware: The project uses an Arduino UNO microcontroller with Nokia 5110 LCD, IR receiver, XY joystick module, and buzzer to implement a modded snake game with visual, audio, and input components.
